@@ -2,6 +2,8 @@
 
 > Shows your own follower count right on your pixiv profile page — for the extra lazy.
 
+![Show Me My People](docs/main.png)
+
 Pixiv doesn't display your follower count on your profile. Normally you'd have to
 click into your followers page to see it. This tiny userscript adds a **"Followers"**
 link with the live count right next to the native **"Following"** counter on your
@@ -10,10 +12,10 @@ profile header — so you never have to make that one exhausting click again.
 ## Install
 
 1. Install a userscript manager: [Tampermonkey](https://www.tampermonkey.net/),
-   [Violentmonkey](https://violentmonkey.github.io/), or Greasemonkey.
+   [Violentmonkey](https://violentmonkey.github.io/), or [Greasemonkey](https://www.greasespot.net/).
 2. Install the script:
-   - **Greasy Fork:** *(link once published)*
-   - **GitHub:** [show-me-my-people.user.js](https://raw.githubusercontent.com/steven/show-me-my-people/main/show-me-my-people.user.js)
+   - **Greasy Fork** *(recommended, auto-updates)*: [greasyfork.org/en/scripts/587544-show-me-my-people](https://greasyfork.org/en/scripts/587544-show-me-my-people)
+   - **GitHub:** [show-me-my-people.user.js](https://github.com/Screamir/show-me-my-people/raw/main/show-me-my-people.user.js)
 
 ## Features
 

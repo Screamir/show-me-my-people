@@ -1,17 +1,19 @@
 // ==UserScript==
 // @name         Show Me My People!
-// @namespace    https://github.com/steven/show-me-my-people
+// @namespace    https://github.com/Screamir/show-me-my-people
 // @version      1.0.0
 // @description  Shows your own follower count on your profile main page for the extra lazy.
-// @author       Steven
+// @author       Screamir
 // @match        https://www.pixiv.net/*
 // @icon         https://www.pixiv.net/favicon.ico
 // @run-at       document-start
 // @grant        none
 // @noframes
 // @license      MIT
-// @homepageURL  https://github.com/steven/show-me-my-people
-// @supportURL   https://github.com/steven/show-me-my-people/issues
+// @homepageURL  https://github.com/Screamir/show-me-my-people
+// @supportURL   https://github.com/Screamir/show-me-my-people/issues
+// @updateURL    https://update.greasyfork.org/scripts/587544/Show%20Me%20My%20People.meta.js
+// @downloadURL  https://update.greasyfork.org/scripts/587544/Show%20Me%20My%20People.user.js
 // @compatible   firefox
 // @compatible   chrome
 // @compatible   edge
